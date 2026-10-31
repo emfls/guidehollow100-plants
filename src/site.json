@@ -4,10 +4,10 @@
   "section": "식물·원예",
   "slug": "plants",
   "hero": "실내 식물의 물주기·햇빛·분갈이 문제를 알아봅니다.",
-  "description": "식물·원예 분야에서 자주 생기는 문제의 원인과 안전한 점검 방법을 단계별로 설명합니다.",
-  "pageTitle": "식물·원예 문제 해결 및 사용 가이드 | GuideHollow",
+  "description": "실내 식물의 물주기·분갈이·빛 환경을 관찰하고 문제별로 대응하는 가이드",
+  "pageTitle": "식물·원예 생활 정보·문제 해결 가이드 | GuideHollow",
   "url": "https://plants.guidehollow.com/",
   "accent": "#438464",
-  "launchReady": false,
+  "launchReady": true,
   "adsReady": false
 }
