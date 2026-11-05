@@ -3,12 +3,13 @@
   "short": "식물·원예",
   "section": "식물·원예",
   "slug": "plants",
-  "hero": "실내 식물의 물주기·햇빛·분갈이 문제를 알아봅니다.",
-  "description": "실내 식물의 물주기·분갈이·빛 환경을 관찰하고 문제별로 대응하는 가이드",
-  "pageTitle": "식물·원예 생활 정보·문제 해결 가이드 | GuideHollow",
+  "hero": "식물 물주기 일정과 ICS",
+  "description": "직접 정한 간격의 일정만 만들며 식물별 적정 주기를 권장하지 않습니다.",
+  "pageTitle": "식물 물주기 일정과 ICS | GuideHollow",
   "url": "https://plants.guidehollow.com/",
   "accent": "#438464",
   "launchReady": true,
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
