@@ -9,5 +9,6 @@
   "url": "https://plants.guidehollow.com/",
   "accent": "#438464",
   "launchReady": true,
-  "adsReady": false
+  "adsReady": false,
+  "coupangEnabled": true
 }
